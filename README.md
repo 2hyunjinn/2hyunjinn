@@ -1,4 +1,4 @@
-# Hyunjin_Profile
+# WELCOME_TO_MY_GITHUB
 ### My personal repository
 
 ### Hi! 🖐🏻🖐🏻
