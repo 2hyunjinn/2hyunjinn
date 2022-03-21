@@ -7,5 +7,4 @@
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://linktr.ee/HYUNJINLEE)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={hyunjin04})](https://solved.ac/{hyunjin04})
+![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?2hyunjinn=anuraghazra&show_icons=true&theme=radical)
