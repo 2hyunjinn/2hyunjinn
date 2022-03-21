@@ -7,4 +7,7 @@
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://linktr.ee/HYUNJINLEE)
 
+[![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?2hyunjinn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?2hyunjinn=anuraghazra&hide=contribs,prs)
+![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?2hyunjinn=anuraghazra&count_private=true)
 ![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?2hyunjinn=anuraghazra&show_icons=true&theme=radical)
