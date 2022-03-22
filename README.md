@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#FF0080&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?color=#FF0080)
 # WELCOME_TO_MY_GITHUB
 ### My personal repository
 
