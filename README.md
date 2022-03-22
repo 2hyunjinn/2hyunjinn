@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=#FF0080)
+![header](https://capsule-render.vercel.app/api?color=FF0080)
 # WELCOME_TO_MY_GITHUB
 ### My personal repository
 
