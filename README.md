@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=280&section=header&text=WECOME&fontSize=80&fontColor=FFFFFF)
 
-# WELCOME_TO_MY_GITHUB
-### My personal repository
-
-### Hi! 🖐🏻🖐🏻
+# WELCOME TO HYUNJIN
+### Hi! 💛
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link)](https://steadily-hyunjin.tistory.com/)
 	
