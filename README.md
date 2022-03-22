@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF0080&height=300&section=header&text=WECOME TO HYUNJIN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF0080&height=300&section=header&text=WECOME_TO_HYUNJIN&fontSize=90)
 # WELCOME_TO_MY_GITHUB
 ### My personal repository
 
