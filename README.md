@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF0080&height=300&section=header&text=WECOME&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waing&color=FA5882&height=300&section=header&text=WECOME&fontSize=80)
 # WELCOME_TO_MY_GITHUB
 ### My personal repository
 
