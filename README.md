@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FE2E9A&height=280&section=header&text=WECOME&fontSize=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FE2E9A&height=280&section=header&text=WECOME🤍&fontSize=80&fontColor=FFFFFF)
 
 # WELCOME TO HYUNJIN
 ### Hi! 💛
