@@ -7,6 +7,8 @@
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://linktr.ee/HYUNJINLEE)
 
+<img src="https://img.shields.io/badge/C-ff69b4?style=flat&logo=C&logoColor=A8B9CC"/>
+
 
 ![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hyunjinn&show_icons=true&theme=radical)
 
