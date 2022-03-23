@@ -10,6 +10,7 @@
 <!-- tech badge -->
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 ![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hyunjinn&show_icons=true&theme=radical)
 
