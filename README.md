@@ -7,10 +7,10 @@
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://linktr.ee/HYUNJINLEE)
 
+<div align=center>
 <!-- tech badge -->
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
