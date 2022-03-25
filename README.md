@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FE2E9A&height=280&section=header&text=WECOME🤍&fontSize=80&fontColor=FFFFFF)
-
-<h3 align="center"><b>WELCOME TO HYUNJIN</b></h3>
 <h3 align="center"><b>Hi! 💛</b></h3>
 </br>
 
