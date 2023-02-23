@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 
 ![hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hyunjinn&show_icons=true&theme=radical)
 
