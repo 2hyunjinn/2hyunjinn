@@ -7,7 +7,7 @@
 | [김세훈](https://github.com/s9hn) | [신민석](https://github.com/t1nm1ksun) | [김아린](https://github.com/arinming) | [이현진](https://github.com/2hyunjinn) |
 | :--------: | :--------: | :--------: | :--------: |
 | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/1bdb4be5-6a96-4b0d-83e6-01d7306cc490" width="200px"  height="200dp">  | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/891fee17-df02-4286-a161-5969958572d3" width="200px" height="200dp"> | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/16e9e238-4f1e-45d5-b360-f788806fd1d5" width="200px" height="200dp"> | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/6b6a33a0-d215-4b7c-a519-0c0958cd6473" width="200px" height="200dp">
-| 담당기능 | 담당기능 | 담당기능 | 담당기능 | 
+| 원영적사고 | 내정보입력 / 온보딩 | 홈 / 로딩화면 | 인스타캡쳐 / 마이페이지 | 
 
 ## 👋 주요 기능
 
