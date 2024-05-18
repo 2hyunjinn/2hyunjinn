@@ -44,13 +44,22 @@ ui 단위로 브랜치를 구성합니다.
 📂 LuckyLuckyChange
 ┣ 📂 s9hn
 ┃ ┣ 📂 Wonyoung
+┃ ┃ ┣ 📂 WonyoungActivity
+┃ ┃ ┣ 📂 ...
 ┣ 📂 t1nm1ksun
+┃ ┣ 📂 OnBoarding
 ┃ ┣ 📂 ProfileInput
-┃ ┣ 📂 signup
-┃ ┣ 📂 login
-┣ 📂 util
-┃ ┣ 📂 extensions
-
+┣ 📂 arinming
+┃ ┣ 📂 Home
+┃ ┃ ┣ 📂 HomeActivity
+┃ ┃ ┣ 📂 ...
+┣ 📂 2hyunjinn
+┃ ┣ 📂 MyPage
+┃ ┃ ┣ 📂 MyPageActivity
+┃ ┃ ┣ 📂 ...
+┃ ┣ 📂 ConnectInsta
+┃ ┃ ┣ 📂 ConnectInstaActivity
+┃ ┃ ┣ 📂 ...
 
 ## [➿ *****Convention*****]( https://www.notion.so/NOW-SOPT-4-Android-c06a6fc7ba6d4fe48aa4773e1ced8ca6 )
 ```
