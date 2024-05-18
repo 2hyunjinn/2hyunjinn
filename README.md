@@ -63,8 +63,9 @@ ui 단위로 브랜치를 구성합니다.
 ┃ ┣ 📂 ConnectInsta
 ┃ ┃ ┣ 📂 ConnectInstaActivity
 ┃ ┃ ┣ 📂 ...
+```
 
 ## [➿ *****Convention*****]( https://www.notion.so/NOW-SOPT-4-Android-c06a6fc7ba6d4fe48aa4773e1ced8ca6 )
-```
+
 
 
