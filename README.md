@@ -6,7 +6,7 @@
 ## 👋 역할 분담 및 주요 기능
 | [김세훈](https://github.com/2hyunjinn) | [신민석](https://github.com/2hyunjinn) | [이현진](https://github.com/2hyunjinn) | [김아린](https://github.com/2hyunjinn) |
 | :--------: | :--------: | :--------: | 
-| <img src="" width="200px"  height="200dp">  | <img src="" width="200px" height="200dp"> | <img src="" width="200px" height="200dp" | <img src="" width="200px" height="200dp">
+| <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/cf1c398d-3bd8-4a4a-ab5f-ffd6ac68c5d3" width="200px"  height="200dp">  | <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/cf1c398d-3bd8-4a4a-ab5f-ffd6ac68c5d3" width="200px" height="200dp"> | <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/cf1c398d-3bd8-4a4a-ab5f-ffd6ac68c5d3" width="200px" height="200dp"> | <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/cf1c398d-3bd8-4a4a-ab5f-ffd6ac68c5d3" width="200px" height="200dp">
 | 담당기능 | 담당기능 | 담당기능 | 
 
 ## 📷 *****ScreenShot*****
