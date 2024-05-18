@@ -1,6 +1,49 @@
-###
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2hyunjinn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hyunjin&edge_flat=false)](https://hits.seeyoufarm.com)
+# LuckyLuckyChange-Android
+## 프로젝트 설명 
+34rd NOW SOPT 솝커톤 안드로이드 4팀, 럭키럭키 체인지 🍀🌟
 
-![462af19e96ca6e9e23b7cfccc8e9a34e](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/3c0aaca5-be1d-4823-a7df-a0e4458cce76)
+
+## 👋 역할 분담 및 주요 기능
+| [김세훈](https://github.com/) | [신민석](https://github.com/) | [이현진](https://github.com/2hyunjinn) | [김아린](https://github.com/) |
+| :--------: | :--------: | :--------: | 
+| <img src="" width="200px"  height="200dp">  | <img src="" width="200px" height="200dp"> | <img src="" width="200px" height="200dp" | <img src="" width="200px" height="200dp">
+| 담당기능 | 담당기능 | 담당기능 | 
+
+## 📷 *****ScreenShot*****
 
 
+## 👩🏻‍💻 ***𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠***
+
+| Title | Content |
+| --- | --- |
+| Architecture |  |
+| Design Pattern | Adapter Pattern, Observer Pattern |
+| Jetpack Components | LiveData, Lifecycle, ViewModel |
+| Dependency Injection |  |
+| Network | Retrofit, OkHttp |
+| Asynchronous Processing | Coroutine(+ Flow) |
+| Third Party Library |  |
+| Strategy | Git Flow |
+| CI | |
+| Other Tool | Notion, Figma, Postman |
+
+<br>
+
+
+
+## 📁 *****Foldering*****
+```
+📂 LuckyLuckyChange
+┣ 📂 data
+┃ ┣ 📂 repository
+┃ ┣ 📂 models
+┃ ┣ 📂 datasources
+┣ 📂 ui
+┃ ┣ 📂 main
+┃ ┣ 📂 signup
+┃ ┣ 📂 login
+┣ 📂 util
+┃ ┣ 📂 extensions
+```
+
+## [➿ *****Convention*****]( https://www.notion.so/sopt-official/36f7383d8caf48ee913b65dc2fa507da )
