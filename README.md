@@ -11,6 +11,12 @@
 
 ## 👋 주요 기능
 
+## 👋 커밋 컨벤션
+![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/b7bf23fb-7b95-48c2-a9d9-d6d69dea9d02)
+
+## 👋 코드 컨벤션
+https://github.com/PRNDcompany/android-style-guide/blob/main/Resource.md
+
 ## 📷 *****ScreenShot*****
 
 
