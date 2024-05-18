@@ -6,12 +6,11 @@
 ## 👋 역할 분담 및 주요 기능
 | [김세훈]([https://github.com/0se0](https://github.com/2hyunjinn)) | [신민석](https://github.com/2hyunjinn) | [김아린]([https://github.com/cacaocoffee](https://github.com/2hyunjinn)) | [이현진]([https://github.com/cacaocoffee](https://github.com/2hyunjinn)) |
 | :--------: | :--------: | :--------: | :--------: |
-| <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/2916ad6f-1e3a-4669-9264-46178cd47fef" width="200px"  height="200dp">  | <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/cf1c398d-3bd8-4a4a-ab5f-ffd6ac68c5d3" width="200px" height="200dp"> | <img src="https://github.com/NOW-SOPT-APP1-YeogiEottae/YeogiEottae-Android/assets/121383083/9eba37d8-73b0-48e4-ae8f-1ec86fb34a2a" width="200px" height="200dp"> | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/6b6a33a0-d215-4b7c-a519-0c0958cd6473" width="200px" height="200dp">
-| 담당기능 | 담당기능 | 담당기능 | 
+| <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/1bdb4be5-6a96-4b0d-83e6-01d7306cc490" width="200px"  height="200dp">  | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/891fee17-df02-4286-a161-5969958572d3" width="200px" height="200dp"> | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/16e9e238-4f1e-45d5-b360-f788806fd1d5" width="200px" height="200dp"> | <img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/6b6a33a0-d215-4b7c-a519-0c0958cd6473" width="200px" height="200dp">
+| 담당기능 | 담당기능 | 담당기능 | 담당기능 | 
 
 ## 📷 *****ScreenShot*****
 
-![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/6b6a33a0-d215-4b7c-a519-0c0958cd6473)
 
 ## 👩🏻‍💻 ***𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠***
 
