@@ -50,4 +50,5 @@
 ```
 
 ## 👋 before..
-![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/6416cba3-2728-4d3c-838b-1c2c18256f2f)
+![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/0377ceeb-0097-4ec7-9dc6-af7dcc30105f)
+
