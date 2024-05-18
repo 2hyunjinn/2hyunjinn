@@ -17,13 +17,26 @@
 ## 👋 코드 컨벤션
 https://github.com/PRNDcompany/android-style-guide/blob/main/Resource.md
 
+
+## 👋 브랜치전략
+
+ui 단위로 브랜치를 구성합니다.
+
+- 해당 작업을 위한 브랜치를 파서 작업합니다.
+- 작업 완료 후 PR을 날리고 팀원들에게 크로스체크 후 머지합니다.
+
+예시)
+
+- ui/color_setting
+- ui/font_setting
+- ui/main
+- ui/home
+
 ## 📷 *****ScreenShot*****
 
 
 ## 📷 **before..**
-![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/0377ceeb-0097-4ec7-9dc6-af7dcc30105f)
-
-## 👩🏻‍💻 ***𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠***
+<img src="https://github.com/2hyunjinn/2hyunjinn/assets/95455569/0377ceeb-0097-4ec7-9dc6-af7dcc30105f" width="400px" height="400dp">
 
 | Title | Content |
 | --- | --- |
