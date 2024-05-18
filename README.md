@@ -4,7 +4,7 @@
 
 
 ## 👋 역할 분담 및 주요 기능
-| [김세훈](https://github.com/) | [신민석](https://github.com/) | [이현진](https://github.com/2hyunjinn) | [김아린](https://github.com/) |
+| [김세훈](https://github.com/2hyunjinn) | [신민석](https://github.com/2hyunjinn) | [이현진](https://github.com/2hyunjinn) | [김아린](https://github.com/2hyunjinn) |
 | :--------: | :--------: | :--------: | 
 | <img src="" width="200px"  height="200dp">  | <img src="" width="200px" height="200dp"> | <img src="" width="200px" height="200dp" | <img src="" width="200px" height="200dp">
 | 담당기능 | 담당기능 | 담당기능 | 
