@@ -12,6 +12,9 @@
 ## 👋 주요 기능
 
 ## 📷 *****ScreenShot*****
+
+
+## 📷 **before..**
 ![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/0377ceeb-0097-4ec7-9dc6-af7dcc30105f)
 
 ## 👩🏻‍💻 ***𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠***
@@ -49,6 +52,4 @@
 ## [➿ *****Convention*****]( https://www.notion.so/NOW-SOPT-4-Android-c06a6fc7ba6d4fe48aa4773e1ced8ca6 )
 ```
 
-## 👋 before..
-![image](https://github.com/2hyunjinn/2hyunjinn/assets/95455569/0377ceeb-0097-4ec7-9dc6-af7dcc30105f)
 
